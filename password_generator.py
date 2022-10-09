@@ -1,6 +1,6 @@
 #password generator
 import string,secrets
 
-karakter = string.ascii_latters + string.digits
+karakter = string.ascii_letters + string.digits
 password = ''.join(secrets.choice(karakter) for i in range(8))
-print(password)
+print("Password kamu = " + password)
