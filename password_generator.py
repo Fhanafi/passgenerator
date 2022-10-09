@@ -2,5 +2,5 @@
 import string,secrets
 
 karakter = string.ascii_letters + string.digits
-password = ''.join(secrets.choice(karakter) for i in range(8))
+password = ''.join(secrets.choice(karakter) for i in range(12))
 print("Password kamu = " + password)
