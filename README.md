@@ -6,3 +6,5 @@ before running this tools , install python3 <br> beacuse this tools for python 3
 this output <br>
 
 > Password kamu = whdjGD%&
+
+if running for acode, your download zip and open file on acode <br> and running script
